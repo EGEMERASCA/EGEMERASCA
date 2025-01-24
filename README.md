@@ -6,4 +6,4 @@
 - 💬 Ask me about the basics of Kotlin or getting started with Android Studio
 
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width = "60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width = "60"/>
