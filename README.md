@@ -1,4 +1,4 @@
-###Hi there 👋
+### Hi there 👋
 
 - 🌱 I’m currently learning Kotlin for Android app development
 - 👯 I’m looking to collaborate on mobile app projects
